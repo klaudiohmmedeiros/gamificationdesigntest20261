@@ -28,7 +28,10 @@ For each student, the spreadsheet has the following information:
 
 ## Mission ideas
 
-fgh
+- **Attendance missions**: Missions based on attendance of the student in classes. It's recommended to allow a certain tolerance for absences per assessment unit (e.g. 90% of attendance, one absence);
+- **Grading missions**: Missions based on grading of the student in assessment units. The value thresholds may vary based on the scoring system used in the institution (e.g. numeric grades, concepts). It's recommended to allow a certain tolerance for grading per assessment unit (e.g. in a system with max grade of 100, reward grades of 86 or above);
+- 
+
  
 
 
