@@ -21,7 +21,11 @@ For each student, the spreadsheet has the following information:
 - **Next level**: The amount of points needed for the student to reach the next level;
 - **Student leaderboard**: The top students ranked based on the accumulated points. Ideally, the leaderboard doesn't show all students to not demotivate students behind its peers, but the instructor can decide if they want to show some students or all students;
 - **Team leaderboard**: The teams ranked based on the accumulated points obtained by its members;
+- **Checklist**: Each mission has a corresponding checklist. Then the student completes a mission, the instructor can mark the mission as completed by checking the checkbox;
+- **Mission**: The name of the mission. The instructor can use their creativity to create new missions;
+- **Description**: The description of the mission, that explains what the student must do to complete the mission;
 - 
+ 
 
 
 
