@@ -25,7 +25,10 @@ For each student, the spreadsheet has the following information:
 - **Mission**: The name of the mission. The instructor can use their creativity to create new missions;
 - **Description**: The description of the mission, that explains what the student must do to complete the mission;
 - **Reward**: The number of points associated with the mission. When the instructor marks a mission as completed, its reward is added to the number of points obtained by the student;
- 
+
+## Mission ideas
+
+fgh
  
 
 
