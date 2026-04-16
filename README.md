@@ -30,6 +30,8 @@ For each student, the spreadsheet has the following information:
 
 - **Attendance missions**: Missions based on attendance of the student in classes. It's recommended to allow a certain tolerance for absences per assessment unit (e.g. 90% of attendance, one absence);
 - **Grading missions**: Missions based on grading of the student in assessment units. The value thresholds may vary based on the scoring system used in the institution (e.g. numeric grades, concepts). It's recommended to allow a certain tolerance for grading per assessment unit (e.g. in a system with max grade of 100, reward grades of 86 or above);
+- **Exposition missions**: Missions based on participation on in-class or online discussions. They can represent in-class presentations or other types of tasks where students present something for the class or instructor;
+- **Team missions**: Missions based on teamwork. They can represent missions for tasks where each student has a different subtask to do or scoring goals for the team (e.g. the student's team scored over 1000 points);
 - 
 
  
