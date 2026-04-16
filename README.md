@@ -19,8 +19,9 @@ For each student, the spreadsheet has the following information:
 - **Average points**: The average score of all students in the gamified dynamic;
 - **Level**: The level of the student. The level is represented by stars, where 1 star means 1 level. Each level has a point limit value that, when the student reaches this value, they advance to the next level. The number of points needed for the student to level up is increased as they reach higher levels;
 - **Next level**: The amount of points needed for the student to reach the next level;
--  
- 
+- **Student leaderboard**: The top students ranked based on the accumulated points. Ideally, the leaderboard doesn't show all students to not demotivate students behind its peers, but the instructor can decide if they want to show some students or all students;
+- **Team leaderboard**: The teams ranked based on the accumulated points obtained by its members;
+- 
 
 
 
