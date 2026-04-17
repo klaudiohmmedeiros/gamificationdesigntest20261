@@ -6,11 +6,15 @@ This page offers a more complete guide to the gamification design proposed in ou
 
 A template for the spreadsheet mentioned in the study can be found here: <link>
 
-It's important to note that, in this template, all students' information are in the same Google Spreadsheet. Therefore, a student can view information about its peers. [propose an option for this situation].
+It's important to note that, in this template, all students' information are in the same Google Spreadsheet. Therefore, a student can view information about its peers. 
+
+In the case that the instructor uses one spreadsheet with various pages (as it is presented above), it is recommended to hide the "General" page. This page has general information about the dynamic and, ideally, shouldn't be visible for the students. 
+
+In the case that the instructor wants to separate the students' data into different spreadsheets, the mapping has to be done manually with functions like IMPORTRANGE, passing the link with the informations to be used.
 
 ## Spreadsheet information
 
-For each student, the spreadsheet has the following information:
+For each student, the spreadsheet has the following informations:
 
 - **Name (or nickname)**: The name of the student. You can give the option for the student to use a nickname for the gamified dynamic;
 - **Student's team**: The team that the student is part of;
@@ -25,6 +29,10 @@ For each student, the spreadsheet has the following information:
 - **Mission**: The name of the mission. The instructor can use their creativity to create new missions;
 - **Description**: The description of the mission, that explains what the student must do to complete the mission;
 - **Reward**: The number of points associated with the mission. When the instructor marks a mission as completed, its reward is added to the number of points obtained by the student;
+
+The "General" page has the following informations:
+
+- 
 
 ## Mission ideas
 
