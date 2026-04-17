@@ -40,7 +40,18 @@ The "General" page has the following informations:
 - **Grading missions**: Missions based on grading of the student in assessment units. The value thresholds may vary based on the scoring system used in the institution (e.g. numeric grades, concepts). It's recommended to allow a certain tolerance for grading per assessment unit (e.g. in a system with max grade of 100, reward grades of 86 or above);
 - **Exposition missions**: Missions based on participation on in-class or online discussions. They can represent in-class presentations or other types of tasks where students present something for the class or instructor;
 - **Team missions**: Missions based on teamwork. They can represent missions for tasks where each student has a different subtask to do or scoring goals for the team (e.g. the student's team scored over 1000 points);
-- 
+- **Exercise missions**: Missions based on exercises done by students over the time. It can be based on the count of exercises done (e.g. done 5 exercises, 10 exercises);
+- **Specific missions**: Missions based on specific actions for exercises or other actions throughout the gamified dynamic. Here as tips for these missions, based on Software Testing curriculum:
+    - **Complete specific exercises**: The mission is completed when the student completes an exercise. The instructor may define their criteria for exercise completion;
+    - **Founding different kinds of problems**: These problems may be faults or defects. In the exercise, the student can be asked if each of these problems are faults or defects, for example;
+    - **Founding different kinds of bugs**: The mission is completed when the student finds a minimum number of different bugs in an exercise or system;
+    - **Write unit tests**: This mission is completed when the student implement unit tests for a problem given by the instructor;
+    - **Code coverage**: This mission is completed when the student uses tests to cover a certain percentage of the code given in a problem (e.g. 90% code coverage). These can be verified with tools like EclEmma.
+    - **Equivalence classes**: This mission is completed when the students use Equivalence Partitioning on a testing problem;
+    - **Boundary value analysis**: This mission is completed when the students use boundary value analysis on a testing problem;
+    - [structural testing]
+    - **Refactoring**: This mission is completed when the students use refactoring on a code (or codes) preserving the results of previous tests;
+    - **Regression testing**: This mission is completed when the students successfully use regression testing to detect bugs; 
 
  
 
