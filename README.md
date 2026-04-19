@@ -4,7 +4,8 @@ This page offers a more complete guide to the gamification design proposed in ou
 
 ## About the spreadsheets
 
-A template for the spreadsheet mentioned in the study, for visualization purposes, can be found here: [Class spreadsheets - Example 1.pdf](https://github.com/user-attachments/files/26869138/Class.spreadsheets.-.Example.1.pdf)
+A template for the spreadsheet mentioned in the study, for visualization purposes, can be found here: [Class spreadsheets - Example 1.pdf](https://github.com/user-attachments/files/26869138/Class.spreadsheets.-.Example.1.pdf). The game information is in another spreadsheet. This spreadsheet, for visualization purposes, can be found here: [Class spreadsheets - General.pdf](https://github.com/user-attachments/files/26869217/Class.spreadsheets.-.General.pdf)
+
 
 
 It's important to note that, in this template, all students' information are in the same Google Spreadsheet. Therefore, a student can view information about its peers. 
