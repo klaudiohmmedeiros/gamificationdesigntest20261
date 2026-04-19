@@ -4,15 +4,7 @@ This page offers a more complete guide to the gamification design proposed in ou
 
 ## About the spreadsheets
 
-A template for the spreadsheet mentioned in the study, for visualization purposes, can be found here: [Class spreadsheets - Example 1.pdf](https://github.com/user-attachments/files/26869138/Class.spreadsheets.-.Example.1.pdf). The game information is in another spreadsheet. This spreadsheet, for visualization purposes, can be found here: [Class spreadsheets - General.pdf](https://github.com/user-attachments/files/26869217/Class.spreadsheets.-.General.pdf)
-
-
-
-It's important to note that, in this template, all students' information are in the same Google Spreadsheet. Therefore, a student can view information about its peers. 
-
-In the case that the instructor uses one spreadsheet with various pages (as it is presented above), it is recommended to hide the "General" page. This page has general information about the dynamic and, ideally, shouldn't be visible for the students. 
-
-In the case that the instructor wants to separate the students' data into different spreadsheets, the mapping has to be done manually with functions like IMPORTRANGE, passing the link with the informations to be used.
+A template for the spreadsheet mentioned in the study, for visualization purposes, can be found here: [Class spreadsheets - Example 1.pdf](https://github.com/user-attachments/files/26869138/Class.spreadsheets.-.Example.1.pdf). The game information is in another spreadsheet. This spreadsheet, for visualization purposes, can be found here: [Class spreadsheets - General.pdf](https://github.com/user-attachments/files/26869217/Class.spreadsheets.-.General.pdf).
 
 ## Spreadsheet information
 
@@ -34,7 +26,16 @@ For each student, the spreadsheet has the following informations:
 
 The "General" page has the following informations:
 
-- 
+- **Students' Information**: A list with each student's name and points. These information come from the student's spreadsheet;
+- **Students' Information (ranked)**: The same list above but sorted by points obtained;
+- **Team leaderboard**: A list with each team in the gamified dynamic;
+- **Team leaderboard (ranked)**: The same list above but sorted by points obtained by the team;
+- **Points needed for level**: How many points do the student need for reaching certain levels in the gamified dynamic. It's also used for calculate how many points the student need for level up (e.g. if the player needs 150 points to reach level 2 and have 100 points, they need 50 points to level up);
+- **General information**: Additional information about the gamified dynamic:
+    - **Average students' points**: The arithmetic mean of the sum of points obtained by all students in the gamified dynamic divided by the number of students;
+    - **Max possible points**: The maximum number of points that the student can earn in the gamified dynamic. It's important to calculate, for example, the progress of the student represented by the progress bar;
+    - **Number of students**: The number of students participating in the gamified dynamic. It's important to calculate, for example, the average points of the class;
+
 
 ## Mission ideas
 
