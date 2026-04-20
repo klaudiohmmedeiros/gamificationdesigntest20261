@@ -4,6 +4,8 @@ This page offers a more complete guide to the gamification design proposed in ou
 
 ## About the spreadsheets
 
+Initially, this gamification design will be implemented through spreadsheets. 
+
 A template for the spreadsheet mentioned in the study, for visualization purposes, can be found here: [Class spreadsheets - Example 1.pdf](https://github.com/user-attachments/files/26869138/Class.spreadsheets.-.Example.1.pdf). The game information is in another spreadsheet. This spreadsheet, for visualization purposes, can be found here: [Class spreadsheets - General.pdf](https://github.com/user-attachments/files/26869217/Class.spreadsheets.-.General.pdf).
 
 These spreadsheets exchange information with each other. For example, when we change the student's username in their spreadsheet, their name automatically changes in the general information spreadsheet and leaderboards. When the leaderboard change in general information spreadsheet, the updated leaderboard is submitted to each student's spreadsheet.
