@@ -23,7 +23,7 @@ For each student, the spreadsheet has the following informations:
 - **Next level**: The amount of points needed for the student to reach the next level;
 - **Student leaderboard**: The top students ranked based on the accumulated points. Ideally, the leaderboard doesn't show all students to not demotivate students behind its peers, but the instructor can decide if they want to show some students or all students;
 - **Team leaderboard**: The teams ranked based on the accumulated points obtained by its members;
-- **Checklist**: Each mission has a corresponding checklist. Then the student completes a mission, the instructor can mark the mission as completed by checking the checkbox;
+- **Checklist**: Each mission has a corresponding checklist. When the student completes a mission, the instructor can mark the mission as completed by checking the checkbox;
 - **Mission**: The name of the mission. The instructor can use their creativity to create new missions;
 - **Description**: The description of the mission, that explains what the student must do to complete the mission;
 - **Reward**: The number of points associated with the mission. When the instructor marks a mission as completed, its reward is added to the number of points obtained by the student;
@@ -34,7 +34,7 @@ The "General" page has the following informations:
 - **Students' Information (ranked)**: The same list above but sorted by points obtained;
 - **Team leaderboard**: A list with each team in the gamified dynamic;
 - **Team leaderboard (ranked)**: The same list above but sorted by points obtained by the team;
-- **Points needed for level**: How many points do the student need for reaching certain levels in the gamified dynamic. It's also used for calculate how many points the student need for level up (e.g. if the player needs 150 points to reach level 2 and have 100 points, they need 50 points to level up);
+- **Points needed for level**: How many points do the student need for reaching certain levels in the gamified dynamic. It's also used for calculate how many points the student need for level up (for example, if the player needs 150 points to reach level 2 and have 100 points, they need 50 points to level up);
 - **General information**: Additional information about the gamified dynamic:
     - **Average students' points**: The arithmetic mean of the sum of points obtained by all students in the gamified dynamic divided by the number of students;
     - **Max possible points**: The maximum number of points that the student can earn in the gamified dynamic. It's important to calculate, for example, the progress of the student represented by the progress bar;
@@ -43,8 +43,8 @@ The "General" page has the following informations:
 
 ## Mission ideas
 
-- **Attendance missions**: Missions based on attendance of the student in classes. It's recommended to allow a certain tolerance for absences per assessment unit (e.g. 90% of attendance, one absence);
-- **Grading missions**: Missions based on grading of the student in assessment units. The value thresholds may vary based on the scoring system used in the institution (e.g. numeric grades, concepts). It's recommended to allow a certain tolerance for grading per assessment unit (e.g. in a system with max grade of 100, reward grades of 86 or above);
+- **Attendance missions**: Missions based on attendance of the student in classes. It's recommended to allow a certain tolerance for absences per assessment unit (e.g. *"The student has 90% of attendance on Unit I"*, *"The student has one or less absences on Unit I"*);
+- **Grading missions**: Missions based on grading of the student in assessment units. The value thresholds may vary based on the scoring system used in the institution (e.g. numeric grades, concepts). It's recommended to allow a certain tolerance for grading per assessment unit (e.g. *"The student got a grade of 86 or more in Unit I (max 100)"*, *"The student got a A grade in Unit I"*);
 - **Exposition missions**: Missions based on participation on in-class or online discussions. They can represent in-class presentations or other types of tasks where students present something for the class or instructor;
 - **Team missions**: Missions based on teamwork. They can represent missions for tasks where each student has a different subtask to do or scoring goals for the team (e.g. the student's team scored over 1000 points);
 - **Exercise missions**: Missions based on exercises done by students over the time. It can be based on the count of exercises done (e.g. done 5 exercises, 10 exercises);
