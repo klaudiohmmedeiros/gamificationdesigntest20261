@@ -50,8 +50,8 @@ The "General" page has the following informations:
 - **Exercise missions**: Missions based on exercises done by students over the time. It can be based on the count of exercises done (e.g. *"The student completed 5 or more exercises of the Exercises page"*, *"The student completed 10 or more exercises of the Exercises page"*);
 - **Specific missions**: Missions based on specific actions for exercises or other actions throughout the gamified dynamic. Here as tips for these missions, based on Software Testing curriculum:
     - **Complete specific exercises**: The mission is completed when the student completes an exercise. The instructor may define their criteria for exercise completion;
-    - **Founding different kinds of problems**: These problems may be faults or defects. In the exercise, the student can be asked if each of these problems are faults or defects, for example;
-    - **Founding different kinds of bugs**: The mission is completed when the student finds a minimum number of different bugs in an exercise or system;
+    - **Founding different kinds of problems**: These problems may be faults or defects. In the exercise, the student can be asked if each of these problems are faults or defects, for example (e.g. *"The student got 90% of right answers for the "Is This A Fault or a Defect" quiz"*);
+    - **Founding different kinds of bugs**: The mission is completed when the student finds a minimum number of different bugs in an exercise or system (e.g. *"The student found 6+ different bugs on the "Library's Rent System" source code"*);
     - **Write unit tests**: This mission is completed when the student implement unit tests for a problem given by the instructor;
     - **Code coverage**: This mission is completed when the student uses tests to cover a certain percentage of the code given in a problem (e.g. 90% code coverage). These can be verified with tools like EclEmma.
     - **Equivalence classes**: This mission is completed when the students use Equivalence Partitioning on a testing problem;
